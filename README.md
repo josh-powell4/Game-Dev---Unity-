@@ -1,8 +1,17 @@
 # Game-Dev---Unity---Heli Heli---MobileGame
 Indie Game Development Three King Studios 
 ##### Collaborators: #####
-Joseph E Powell IV </br>
+Joseph E Powell IV 
+* Software Engineeer/Programmer 
+* Game Designer
+* Artist
+
+</br>
 Joshua E Powell 
+* Software Engineer/Programmer
+* Game Developer
+* Writer
+</br>
 
 
 # Heli Heli#
