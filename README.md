@@ -6,7 +6,8 @@ Joseph E Powell IV
 * Game Designer
 * Artist
 
-</br>
+</br> 
+
 Joshua E Powell 
 * Software Engineer/Programmer
 * Game Developer
